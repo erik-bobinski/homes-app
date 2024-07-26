@@ -37,15 +37,16 @@ This application is not hosted on a website, so you'll have to download the sour
 
 # Result
 - Clean UI listing available homes 
-![image](https://github.com/user-attachments/assets/c2d485a5-a24b-446c-9b3a-7e0bbdb1ea2e)
+![image](https://github.com/user-attachments/assets/608dc6a7-e706-4bbd-8ffc-039a2ed072cd)
+
 
 - Housing Application Form Stores User Data in Browser Console
-  
-  ![image](https://github.com/user-attachments/assets/7424817e-bc19-48c7-a9eb-2709eb00f177)
-  ![image](https://github.com/user-attachments/assets/91e3c1d5-0381-443e-8651-296332f21ae0)
+  ![image](https://github.com/user-attachments/assets/3955c751-c7db-4c2e-8e46-f4ff8d09c159)
+
 
 - Filter Houses By Location
-  ![image](https://github.com/user-attachments/assets/d1bcbc9a-1d26-42bf-b0d9-474ad1c2245d)
+  ![image](https://github.com/user-attachments/assets/d0399814-f92b-4807-82e0-869a141445a4)
+
 
 ## Source Tutorial
 https://github.com/MarkTechson/introduction-to-angular
