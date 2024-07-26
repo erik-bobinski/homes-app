@@ -33,7 +33,7 @@ This application is not hosted on a website, so you'll have to download the sour
   
   `json-server --watch db.json`
   
-- Navigate To The Localhost Port Specified In Your CLI To See Your App Running
+- Navigate To The Localhost Port Specified In Your CLI Under `ng serve` To See Your App Running
 
 # Result
 - Clean UI listing available homes 
