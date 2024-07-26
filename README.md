@@ -15,7 +15,7 @@ This application is not hosted on a website, so you'll have to download the sour
 
 - Clone this repo to your local machine
 
-  `git clone https://github.com/erik-bobinski/homes-app-template.git`
+  `git clone https://github.com/erik-bobinski/homes-app.git`
 
 - Once the code has been downloaded
 
